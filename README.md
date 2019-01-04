@@ -11,7 +11,7 @@ ihd.save_historical_data_to_csv()  # save to csv
 
 ```
 
-__Output via console___
+__Output via console__
 
 ![output 1](https://github.com/netsatsawat/InvestingCrawler/blob/master/Image/console_output.PNG)
 
